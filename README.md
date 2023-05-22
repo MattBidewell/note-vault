@@ -12,3 +12,7 @@ If you want to explore my notes:
 ### **Note: **
 
 This repo might one day become private.
+
+
+### Extenstions I use
+
