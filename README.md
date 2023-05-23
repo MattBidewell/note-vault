@@ -9,10 +9,16 @@ If you want to explore my notes:
 - Set this cloned repo as the vault.
 
 
-### **Note: **
+### Contents
+[[Algorithms|Algorithms]]
+[[Self help| Self help]]
 
+
+
+### **Note: **
 This repo might one day become private.
 
 
 ### Extenstions I use
 
+- 
